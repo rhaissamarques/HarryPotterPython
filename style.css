@@ -1,0 +1,47 @@
+.stApp {
+  background-image: url("https://roommatesdecor.com/cdn/shop/products/RMK12279M.jpg?v=1694551571");
+  background-size: cover;
+}
+
+.stButton > button {
+  display: block;
+  display: grid;
+  justify-content: center;
+}
+
+.stButton :hover{
+  color: #858014;
+  border-color: #858014;
+}
+
+.st-emotion-cache-zt5igj {
+  position: relative;
+  width: 732px;
+  display: grid;
+  justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+  .stApp {
+    background-image: url("https://roommatesdecor.com/cdn/shop/products/RMK12279M.jpg?v=1694551571");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .st-emotion-cache-zt5igj {
+    font-size: medium;
+  }
+
+  .body {
+    position: relative;
+    display: grid;
+    /* justify-content: initial; */
+    justify-content: center;
+  }
+
+  .st-emotion-cache-10trblm {
+    position: absolute;
+  }
+}
