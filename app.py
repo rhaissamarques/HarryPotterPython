@@ -1,11 +1,3 @@
-# coisas a fazer
-# descobrir como colocar uma imagem no background
-# design
-# colocar no github e ver se da pra abrir no celular e ainda funcionar
-# continuar tentando abrindo a imagem, talvez com bootstrap
-# tentar abrir imagem com streamlit
-
-
 import streamlit as st
 import requests
 from random import randint
